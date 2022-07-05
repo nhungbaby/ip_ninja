@@ -1,1 +1,1 @@
-phpMyAdmin:8.tcp.ngrok.io:13558:0:0
+phpMyAdmin:0.tcp.ap.ngrok.io:19744:0:0
